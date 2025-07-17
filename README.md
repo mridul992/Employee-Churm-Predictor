@@ -117,6 +117,8 @@ You can reuse it in the Streamlit app or any automation pipeline.
 - Extend to project delay prediction (team-level)
 
 ---
+Agent flow Diagram
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f34e8400-b603-49c7-9b0a-5cea4772572b" />
 
 ## 🙌 Made  by Mridul Chopra
 
